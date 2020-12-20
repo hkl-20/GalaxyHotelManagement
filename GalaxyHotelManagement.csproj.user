@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="ActivityPortal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CheckOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerGuide.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeleteReservation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditReservation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeeAddition.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeeAdditionRemoval.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeeRemoval.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeeShifts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InitialSignIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reservation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RoomAddition.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RoomAdditionRemoval.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RoomBooking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RoomRemoval.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SignIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
